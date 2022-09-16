@@ -1,4 +1,4 @@
-# WhatsFlood
+# WhatsFlood.
 A Simple Spammer for WhatApp. 
 -
 
